@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pranali Ambare! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a Software Developer Enthusiast and an open source contributor. I'm currently working in infosys as Technical Process Executive (COCSIT).
+I'm a Software Developer Enthusiast and an open source contributor. I'm currently working in infosys as Technical Process Executive.
 
 <hr>
 🎓 An Open-Source enthusiast<br>
